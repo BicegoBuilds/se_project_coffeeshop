@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+After submitting all required information on the form, the "Book a table" button will link to a "Thank You" page with another button leading back to the home page
